@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kunal Mehta"
+		]
+	},
+	"uncaptcha-auth-label-not": "I am not a robot.",
+	"uncaptcha-auth-label-am": "I am a robot.",
+	"uncaptcha-auth-failed": "Error: You are a robot.",
+	"uncaptcha-desc": "Identifies if users are robots during account creation"
+}

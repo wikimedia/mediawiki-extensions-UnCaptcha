@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kunal Mehta"
+		]
+	},
+	"uncaptcha-auth-label-not": "Label for checkbox",
+	"uncaptcha-auth-label-am": "Label for checkbox",
+	"uncaptcha-auth-failed": "Error shown if the user selects the wrong option",
+	"uncaptcha-desc": "{{desc|name=UnCaptcha|url=https://www.mediawiki.org/wiki/Extension:UnCaptcha}}"
+}
