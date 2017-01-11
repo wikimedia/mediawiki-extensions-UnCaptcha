@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"uncaptcha-auth-label-not": "Не сум робот.",
+	"uncaptcha-auth-label-am": "Робот сум.",
+	"uncaptcha-auth-failed": "Грешка: Робот сте.",
+	"uncaptcha-desc": "Утврдува дали корисникот е робот при создавање на сметка"
+}

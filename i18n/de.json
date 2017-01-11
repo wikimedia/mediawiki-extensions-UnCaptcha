@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"uncaptcha-auth-label-not": "Ich bin kein Roboter.",
+	"uncaptcha-auth-label-am": "Ich bin ein Roboter.",
+	"uncaptcha-auth-failed": "Fehler: Du bist ein Roboter.",
+	"uncaptcha-desc": "Erkennt bei der Erstellung von Benutzerkonten, ob der Benutzer ein Roboter ist"
+}
