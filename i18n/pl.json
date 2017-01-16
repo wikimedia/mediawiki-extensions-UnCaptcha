@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"uncaptcha-auth-label-not": "Nie jestem robotem.",
+	"uncaptcha-auth-label-am": "Jestem robotem.",
+	"uncaptcha-auth-failed": "Błąd: Jesteś robotem."
+}

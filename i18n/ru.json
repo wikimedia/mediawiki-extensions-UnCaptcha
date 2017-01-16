@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kareyac"
+		]
+	},
+	"uncaptcha-auth-label-not": "Я не робот.",
+	"uncaptcha-auth-label-am": "Я - робот.",
+	"uncaptcha-auth-failed": "Ошибка: Вы - робот.",
+	"uncaptcha-desc": "Определяет, являются ли пользователи роботами во время создания учетной записи"
+}

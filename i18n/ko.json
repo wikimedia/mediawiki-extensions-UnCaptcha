@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"uncaptcha-auth-label-not": "저는 로봇이 아닙니다.",
+	"uncaptcha-auth-label-am": "저는 로봇입니다.",
+	"uncaptcha-auth-failed": "오류: 당신은 로봇입니다."
+}

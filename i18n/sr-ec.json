@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"uncaptcha-auth-label-not": "Нисам робот",
+	"uncaptcha-auth-label-am": "Јесам робот"
+}

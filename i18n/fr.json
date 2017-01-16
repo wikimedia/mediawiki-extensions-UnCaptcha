@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tinss"
+		]
+	},
+	"uncaptcha-auth-label-not": "Je ne suis pas un robot.",
+	"uncaptcha-auth-label-am": "Je suis un robot.",
+	"uncaptcha-auth-failed": "Erreur: Vous êtes un robot.",
+	"uncaptcha-desc": "Indique si les utilisateurs sont des robots lors de la création de compte"
+}

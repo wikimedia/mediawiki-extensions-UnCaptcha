@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"uncaptcha-auth-label-not": "Jeg er ikke en robot.",
+	"uncaptcha-auth-label-am": "Jeg er en robot.",
+	"uncaptcha-auth-failed": "Feil: Du er en robot.",
+	"uncaptcha-desc": "Identifiserer om brukere er roboter under kontoopprettelse"
+}

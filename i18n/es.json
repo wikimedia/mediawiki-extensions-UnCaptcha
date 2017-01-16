@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"uncaptcha-auth-label-not": "Yo no soy un robot.",
+	"uncaptcha-auth-label-am": "Yo soy un robot.",
+	"uncaptcha-auth-failed": "Error: eres un robot."
+}

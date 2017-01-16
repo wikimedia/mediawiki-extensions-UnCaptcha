@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sorbat"
+		]
+	},
+	"uncaptcha-auth-label-not": "Мин робот түгел.",
+	"uncaptcha-auth-label-am": "Мин робот.",
+	"uncaptcha-auth-failed": "Ҡата: Сес робот."
+}

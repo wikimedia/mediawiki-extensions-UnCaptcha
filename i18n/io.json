@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lakaoso"
+		]
+	},
+	"uncaptcha-auth-label-not": "Me ne esas roboto.",
+	"uncaptcha-auth-label-am": "Me esas roboto.",
+	"uncaptcha-auth-failed": "Eroro: Vu esas roboto.",
+	"uncaptcha-desc": "Determinar se uzeri esas roboti dum krear konto"
+}

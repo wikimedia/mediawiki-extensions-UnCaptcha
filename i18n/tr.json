@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Burakolik"
+		]
+	},
+	"uncaptcha-auth-label-not": "Ben bir robot değilim.",
+	"uncaptcha-auth-label-am": "Ben bir robotum.",
+	"uncaptcha-auth-failed": "Hata: Siz bir robotsunuz."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"uncaptcha-auth-label-not": "Io non sono un robot.",
+	"uncaptcha-auth-label-am": "Io sono un robot.",
+	"uncaptcha-auth-failed": "Errore: sei un robot.",
+	"uncaptcha-desc": "Identifica se gli utenti sono robot durante la creazione dell'uenza"
+}
