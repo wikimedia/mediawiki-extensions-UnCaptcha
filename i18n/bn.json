@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"uncaptcha-auth-label-not": "আমি রোবট নই।",
+	"uncaptcha-auth-label-am": "আমি হচ্ছি রোবট।",
+	"uncaptcha-auth-failed": "ত্রুটি: আপনি হচ্ছেন রোবট।",
+	"uncaptcha-desc": "অ্যাকাউন্ট তৈরি করার সময় ব্যবহারকারী রোবট কিনা তা শনাক্ত করে"
+}
