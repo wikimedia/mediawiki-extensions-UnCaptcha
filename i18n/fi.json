@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"uncaptcha-auth-label-not": "En ole robotti.",
+	"uncaptcha-auth-label-am": "Olen robotti.",
+	"uncaptcha-auth-failed": "Virhe: Olet robotti."
+}
