@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"uncaptcha-auth-label-not": "Nun soi un robot.",
+	"uncaptcha-auth-label-am": "Soi un robot.",
+	"uncaptcha-auth-failed": "Error: Yes un robot.",
+	"uncaptcha-desc": "Identifica si los usuarios son robots demientres la creación de la cuenta"
+}
