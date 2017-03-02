@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"uncaptcha-auth-label-not": "私はロボットではありません。",
+	"uncaptcha-auth-label-am": "私はロボットです。",
+	"uncaptcha-auth-failed": "エラー: あなたはロボットです。",
+	"uncaptcha-desc": "アカウントの作成中に利用者がロボットであるか確認する"
+}
