@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Piramidion"
+		]
+	},
+	"uncaptcha-auth-label-not": "Я не робот.",
+	"uncaptcha-auth-label-am": "Я робот.",
+	"uncaptcha-auth-failed": "Помилка: Ви — робот.",
+	"uncaptcha-desc": "Під час створення облікового запису визначає, чи користувачі є роботами"
+}
