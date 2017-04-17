@@ -4,5 +4,8 @@
 			"Red Winged Duck"
 		]
 	},
-	"uncaptcha-auth-label-not": "Я ня робат."
+	"uncaptcha-auth-label-not": "Я ня робат.",
+	"uncaptcha-auth-label-am": "Я робат.",
+	"uncaptcha-auth-failed": "Памылка: вы робат.",
+	"uncaptcha-desc": "Падчас стварэньня рахунку вызначае, ці зьяўляецца ўдзельнік робатам"
 }
