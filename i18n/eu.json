@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"uncaptcha-auth-label-not": "Ez naiz robota.",
+	"uncaptcha-auth-label-am": "Robota naiz.",
+	"uncaptcha-auth-failed": "Errorea: Robota zara."
+}
