@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"Elisardojm"
 		]
 	},
 	"uncaptcha-auth-label-not": "Non son un robot.",
 	"uncaptcha-auth-label-am": "Son un robot.",
-	"uncaptcha-auth-failed": "Erro: Eres un robot."
+	"uncaptcha-auth-failed": "Erro: Eres un robot.",
+	"uncaptcha-desc": "Indica se os usuarios son robots durante a creación de conta"
 }
