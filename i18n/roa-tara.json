@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"uncaptcha-auth-label-not": "Non ge sò 'nu robbot.",
+	"uncaptcha-auth-label-am": "Ije sò 'nu robbot.",
+	"uncaptcha-auth-failed": "Errore: Tu sì 'nu robbot.",
+	"uncaptcha-desc": "'Ndruche ce le utinde sò robbotr quanne stonne ccreane 'nu cunde"
+}
