@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Macofe",
-			"Dgstranz"
+			"Dgstranz",
+			"Fitoschido"
 		]
 	},
 	"uncaptcha-auth-label-not": "No soy un robot.",
 	"uncaptcha-auth-label-am": "Soy un robot.",
-	"uncaptcha-auth-failed": "Error: eres un robot."
+	"uncaptcha-auth-failed": "Error: eres un robot.",
+	"uncaptcha-desc": "Identifica si las cuentas de usuario pertenecen a robots durante su creación"
 }
