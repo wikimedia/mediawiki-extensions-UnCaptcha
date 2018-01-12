@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"uncaptcha-auth-label-not": "我不是機器人。",
+	"uncaptcha-auth-label-am": "我是機器人。",
+	"uncaptcha-auth-failed": "錯誤：您是個機器人。",
+	"uncaptcha-desc": "在帳號建立期間辨別使用者是否為機器人"
+}
