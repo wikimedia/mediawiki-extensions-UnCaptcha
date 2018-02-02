@@ -57,7 +57,6 @@ class RobotAuthenticationRequest extends AuthenticationRequest {
 			'robot' => [
 				'type' => 'checkbox',
 				'label' => wfMessage( $key ),
-				'invert' => !$this->not,
 				'optional' => true,
 			],
 		];

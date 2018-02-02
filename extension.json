@@ -6,6 +6,7 @@
 	"type": "antispam",
 	"descriptionmsg": "uncaptcha-desc",
 	"AutoloadClasses": {
+		"MediaWiki\\UnCaptcha\\Hooks": "includes/Hooks.php",
 		"MediaWiki\\UnCaptcha\\RobotPreAuthenticationProvider": "includes/RobotPreAuthenticationProvider.php",
 		"MediaWiki\\UnCaptcha\\RobotAuthenticationRequest": "includes/RobotAuthenticationRequest.php"
 	},
@@ -16,6 +17,9 @@
 				"sort": 50
 			}
 		}
+	},
+	"Hooks": {
+		"AuthChangeFormFields": "MediaWiki\\UnCaptcha\\Hooks::onAuthChangeFormFields"
 	},
 	"MessagesDirs": {
 		"UnCaptcha": "i18n"
