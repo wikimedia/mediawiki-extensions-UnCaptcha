@@ -5,6 +5,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:UnCaptcha",
 	"type": "antispam",
 	"descriptionmsg": "uncaptcha-desc",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
 	"AutoloadClasses": {
 		"MediaWiki\\UnCaptcha\\RobotPreAuthenticationProvider": "includes/RobotPreAuthenticationProvider.php",
 		"MediaWiki\\UnCaptcha\\RobotAuthenticationRequest": "includes/RobotAuthenticationRequest.php"
