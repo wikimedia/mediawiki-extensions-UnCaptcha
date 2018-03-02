@@ -1,7 +1,7 @@
 {
 	"name": "UnCaptcha",
 	"author": "Kunal Mehta",
-	"license-name": "GPL-3.0+",
+	"license-name": "GPL-3.0-or-later",
 	"url": "https://www.mediawiki.org/wiki/Extension:UnCaptcha",
 	"type": "antispam",
 	"descriptionmsg": "uncaptcha-desc",
