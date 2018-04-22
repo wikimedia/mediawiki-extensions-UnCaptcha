@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"uncaptcha-auth-label-not": "ខ្ញុំមិនមែនជារូបយន្តទេ។",
+	"uncaptcha-auth-label-am": "ខ្ញុំជារូបយន្ត។",
+	"uncaptcha-auth-failed": "បញ្ហា៖ អ្នកជារូបយន្ត។"
+}
