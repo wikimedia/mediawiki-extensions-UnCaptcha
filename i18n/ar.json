@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"uncaptcha-auth-label-not": "أنا لست روبوت.",
+	"uncaptcha-auth-label-am": "أنا روبوت.",
+	"uncaptcha-auth-failed": "خطأ: أنت روبوت.",
+	"uncaptcha-desc": "يحدد ما إذا كان المستخدمون روبوتات أثناء إنشاء الحساب"
+}
