@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"uncaptcha-auth-label-not": "Δεν είμαι ρομπότ.",
+	"uncaptcha-auth-label-am": "Είμαι ρομπότ.",
+	"uncaptcha-auth-failed": "Σφάλμα: Είστε ένα ρομπότ.",
+	"uncaptcha-desc": "Ανανγωρίζει εάν οι χρήστες είναι ρομπότ κατά την διάρκεια της δημιουργίας λογαριασμού."
+}
