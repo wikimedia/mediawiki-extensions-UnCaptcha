@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"uncaptcha-auth-label-not": "Робот түгелмен.",
+	"uncaptcha-auth-label-am": "Мин робот.",
+	"uncaptcha-auth-failed": "Хата: Сез робот.",
+	"uncaptcha-desc": "Кулланучылар хисап язмасы тәхегәндә робот булу-булмауларын ачыклый"
+}
