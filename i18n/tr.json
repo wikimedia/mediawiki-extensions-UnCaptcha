@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Burakolik"
+			"Burakolik",
+			"By erdo can"
 		]
 	},
 	"uncaptcha-auth-label-not": "Ben bir robot değilim.",
 	"uncaptcha-auth-label-am": "Ben bir robotum.",
-	"uncaptcha-auth-failed": "Hata: Siz bir robotsunuz."
+	"uncaptcha-auth-failed": "Hata: Siz bir robotsunuz.",
+	"uncaptcha-desc": "Hesap oluşturma sırasında kullanıcıların robot olup olmadığını belirler"
 }
