@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Suniltheblue"
+			"Suniltheblue",
+			"सरोज कुमार ढकाल"
 		]
 	},
 	"uncaptcha-auth-label-not": "म कुनै रोबोट होइन।",
 	"uncaptcha-auth-label-am": "म रोबोट हुँ।",
-	"uncaptcha-auth-failed": "त्रुटि: तपाईं एक रोबोट हुनुहुन्छ।",
+	"uncaptcha-auth-failed": "त्रुटि: तपाईँ एक रोबोट हुनुहुन्छ।",
 	"uncaptcha-desc": "खाता सिर्जना गर्ने क्रममा प्रयोगकर्ताहरू रोबोट हुन् वा होइनन् भनी पहिचान गर्छ"
 }
