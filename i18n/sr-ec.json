@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"BadDog"
+			"BadDog",
+			"Zoranzoki21"
 		]
 	},
 	"uncaptcha-auth-label-not": "Нисам робот.",
-	"uncaptcha-auth-label-am": "Јесам робот."
+	"uncaptcha-auth-label-am": "Јесам робот.",
+	"uncaptcha-auth-failed": "Грешка: Ви сте робот",
+	"uncaptcha-desc": "Одређује да ли је корисник робот приликом отварања налога"
 }
