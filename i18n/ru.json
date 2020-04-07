@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kareyac",
-			"Diralik"
+			"Diralik",
+			"Kareyac"
 		]
 	},
 	"uncaptcha-auth-label-not": "Я не робот.",

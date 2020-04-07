@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe",
 			"Dgstranz",
-			"Fitoschido"
+			"Fitoschido",
+			"Macofe"
 		]
 	},
 	"uncaptcha-auth-label-not": "No soy un robot.",
