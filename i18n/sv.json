@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga"
+		]
+	},
+	"uncaptcha-auth-label-not": "Jag är inte en robot.",
+	"uncaptcha-auth-label-am": "Jag är en robot.",
+	"uncaptcha-auth-failed": "Fel: Du är en robot.",
+	"uncaptcha-desc": "Identifierar om en användare är en robot vid skapandet av ett konto."
+}
