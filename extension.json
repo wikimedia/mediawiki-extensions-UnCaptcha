@@ -15,7 +15,7 @@
 	},
 	"AuthManagerAutoConfig": {
 		"preauth": {
-			"UnCaptchaPreAuthenticationProvider":{
+			"UnCaptchaPreAuthenticationProvider": {
 				"class": "MediaWiki\\UnCaptcha\\RobotPreAuthenticationProvider",
 				"sort": 50
 			}
