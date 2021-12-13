@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"uncaptcha-auth-label-not": "Iu nun sugnu nu robot.",
+	"uncaptcha-auth-label-am": "Iu sugnu nu robot.",
+	"uncaptcha-auth-failed": "Erruri: sî nu robot."
+}

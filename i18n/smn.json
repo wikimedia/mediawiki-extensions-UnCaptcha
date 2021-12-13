@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yupik"
+		]
+	},
+	"uncaptcha-auth-label-not": "Jiem lah rooboot.",
+	"uncaptcha-auth-label-am": "Mun lam rooboot.",
+	"uncaptcha-auth-failed": "Feilâ: Tun lah rooboot."
+}
