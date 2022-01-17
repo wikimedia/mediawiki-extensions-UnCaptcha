@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Tranve"
 		]
 	},
 	"uncaptcha-auth-label-not": "我不是一个机器人。",
 	"uncaptcha-auth-label-am": "我是一个机器人。",
 	"uncaptcha-auth-failed": "错误：您是一个机器人。",
-	"uncaptcha-desc": "在账户创建时识别用户是否为机器人"
+	"uncaptcha-desc": "在账号创建时识别用户是否为机器人"
 }
