@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"uncaptcha-auth-label-not": "Io non es un robot.",
+	"uncaptcha-auth-label-am": "Io es un robot.",
+	"uncaptcha-auth-failed": "Error: Tu es un robot.",
+	"uncaptcha-desc": "Identifica si usatores es robots durante le creation del conto"
+}
