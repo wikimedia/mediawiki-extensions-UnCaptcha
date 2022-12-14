@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"uncaptcha-auth-label-not": "אני לא רובוט.",
+	"uncaptcha-auth-label-am": "אני רובוט.",
+	"uncaptcha-auth-failed": "שגיאה: אתה רובוט.",
+	"uncaptcha-desc": "זיהוי אם המשתמשים הם רובוטים במהלך יצירת החשבון"
+}
