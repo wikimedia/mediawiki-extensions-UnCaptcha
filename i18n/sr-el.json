@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"uncaptcha-auth-label-not": "Nisam robot.",
+	"uncaptcha-auth-label-am": "Jesam robot.",
+	"uncaptcha-auth-failed": "Greška: Vi ste robot",
+	"uncaptcha-desc": "Određuje da li je korisnik robot prilikom otvaranja naloga"
+}
