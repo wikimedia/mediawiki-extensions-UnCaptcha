@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"uncaptcha-auth-label-not": "Nisem robot.",
+	"uncaptcha-auth-label-am": "Sem robot.",
+	"uncaptcha-auth-failed": "Napaka: Vi ste robot.",
+	"uncaptcha-desc": "Med ustvarjanjem računa ugotovi, ali je uporabnik robot"
+}
