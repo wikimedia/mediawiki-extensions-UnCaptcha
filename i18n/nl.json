@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"uncaptcha-auth-label-not": "Ik ben geen robot.",
+	"uncaptcha-auth-label-am": "Ik ben een robot.",
+	"uncaptcha-auth-failed": "Fout: U bent een robot.",
+	"uncaptcha-desc": "Controleert bij het aanmaken van accounts of gebruikers robots zijn"
+}
