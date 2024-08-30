@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Suleiman the Magnificent Television",
 			"Ykhwong"
 		]
 	},
 	"uncaptcha-auth-label-not": "저는 로봇이 아닙니다.",
 	"uncaptcha-auth-label-am": "저는 로봇입니다.",
-	"uncaptcha-auth-failed": "오류: 당신은 로봇입니다."
+	"uncaptcha-auth-failed": "오류: 당신은 로봇입니다.",
+	"uncaptcha-desc": "계정 생성 중 사용자가 로봇인지 확인합니다"
 }
