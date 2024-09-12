@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"MR973"
+		]
+	},
+	"uncaptcha-auth-label-not": "Мин робот түгел.",
+	"uncaptcha-auth-label-am": "Мин робот.",
+	"uncaptcha-auth-failed": "Хата: Һеҙ робот.",
+	"uncaptcha-desc": "Теркәү яҙмаһын булдырғанда ҡулланыусыларҙың робот булыу-булмауын билдәләй."
+}
