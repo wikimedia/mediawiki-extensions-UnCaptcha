@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"uncaptcha-auth-label-not": "Ech si kee Roboter.",
+	"uncaptcha-auth-label-not": "Ech si kee Bot.",
 	"uncaptcha-auth-label-am": "Ech sinn e Roboter.",
-	"uncaptcha-auth-failed": "Feeler: Dir sidd e Roboter."
+	"uncaptcha-auth-failed": "Feeler: Dir sidd e Bot."
 }
