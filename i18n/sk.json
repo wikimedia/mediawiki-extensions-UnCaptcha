@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"uncaptcha-auth-label-not": "Nie som robot.",
+	"uncaptcha-auth-label-am": "Som robot.",
+	"uncaptcha-auth-failed": "Chyba: Ste robot.",
+	"uncaptcha-desc": "Zisťuje, či sú používatelia roboty, pri vytváraní účtu"
+}
