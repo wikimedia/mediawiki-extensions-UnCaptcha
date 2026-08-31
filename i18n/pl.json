@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"PanWor"
 		]
 	},
 	"uncaptcha-auth-label-not": "Nie jestem robotem.",
 	"uncaptcha-auth-label-am": "Jestem robotem.",
-	"uncaptcha-auth-failed": "Błąd: Jesteś robotem."
+	"uncaptcha-auth-failed": "Błąd: Jesteś robotem.",
+	"uncaptcha-desc": "Sprawdza, czy osoby zakładające konto to roboty"
 }
